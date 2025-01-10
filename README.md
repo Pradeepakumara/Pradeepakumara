@@ -2,7 +2,7 @@
 
 👀 I’m interested in **MERN Stack**, **Front End Development**, **Back End Development** and **Python Script Development** as well as **AWS** and many more..........
 
-🌱 I’m currently working as a **Full Stack Developer (React, Redux, NodeJS, MySQL, MongoDB, TypeScript, ExpressJS, AWS**.
+🌱 I’m currently working as a **Full Stack Developer (React, Redux, NodeJS, MySQL, MongoDB, TypeScript, ExpressJS, AWS)** @ **Altigreen Propulsion Labs**.
 
 💞️ I’m looking to collaborate on ......let me thik....not decided yet cuz m n learning phase but will surely lookout in future
 
